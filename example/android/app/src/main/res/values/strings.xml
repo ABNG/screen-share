@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agora Screen Share</string>
+    <string name="agora_app_id">0ea231df844245f78523562212d6aa1f</string>
+    <string name="agora_access_token">0060ea231df844245f78523562212d6aa1fIAAw1UY+jBqsiLb29CZk/IawGx1yYDfHVjVMllVuV38Lo+LcsooAAAAAEACRer0x7EmhYAEAAQBSO6Fg</string>
+    <string name="rendermode">RenderMode:%s</string>
+    <string name="fit" translatable="false">Fit</string>
+    <string name="hidden" translatable="false">Hidden</string>
+    <string name="leave">Leave</string>
+    <string name="lowversiontip">The system version is too low to use this feature; please use Android 5.0 System.</string>
+</resources>
